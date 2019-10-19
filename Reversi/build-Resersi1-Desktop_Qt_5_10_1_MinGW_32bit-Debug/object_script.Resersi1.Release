@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mylabel.o
+./release\mywindow.o
+./release\choise1.o
+./release\chiose2.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_mylabel.o
+./release\moc_mywindow.o
+./release\moc_choise1.o
+./release\moc_chiose2.o
+);
